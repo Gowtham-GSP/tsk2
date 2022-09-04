@@ -1,0 +1,31 @@
+.box{
+   
+    font-size: px;
+padding: 20px;
+
+}
+i{
+    
+    color: peru;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.name{
+   background-color: darkgray;
+}
+.name1{
+    background-color: rgb(231, 236, 240);
+ }
+ .name2{
+    background-color: darkgray;
+ }
+ .name3{
+    background-color: darkgray;
+ }
+ .name4{
+     background-color: rgb(231, 236, 240);
+  }
+  .name5{
+     background-color: darkgray;
+  }
